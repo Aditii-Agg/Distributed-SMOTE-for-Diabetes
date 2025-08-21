@@ -1,0 +1,15 @@
+# Core scientific libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# PySpark for distributed processing
+pyspark
+
+# Notebook environment
+jupyter
+notebook
